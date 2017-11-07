@@ -1,0 +1,5 @@
+debian/debhelper-build-stamp
+debian/files
+debian/fonts-d2coding-powerline
+debian/fonts-d2coding-powerline.debhelper.log
+debian/fonts-d2coding-powerline.substvars

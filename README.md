@@ -16,3 +16,11 @@ D2 Coding 글꼴은 나눔바른고딕을 바탕으로 개발자의 코딩을 �
 D2 Coding Powerline은 Powerline 유저을 위해 패치를 적용한 폰트입니다. Powerline 심볼은 'Powerline font patcher'을 통해 적용되었으며 더 자세한 정보를 원하시면 [powerline/fontpatcher](https://github.com/powerline/fontpatcher) 을 방문하시기 바랍니다.
 
 유의사항 : 패치된 폰트는 테스트 과정을 걸치지 않았습니다.
+
+## Install from PPA
+```
+sudo add-apt-repository ppa:bekker/fonts
+sudo apt-get update
+sudo apt-get install fonts-d2coding-powerline
+```
+
